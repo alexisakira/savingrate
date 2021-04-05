@@ -1,6 +1,7 @@
 Replication files for "A Theory of the Saving Rate of the Rich"
 Journal of Economic Theory 192:105193 (2021)
-by Qingyin Ma and Alexis Akira Toda, Journal of Economic Theory
+https://doi.org/10.1016/j.jet.2021.105193
+by Qingyin Ma and Alexis Akira Toda
 
 Confirmed to run with Matlab 2019b
 
